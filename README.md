@@ -15,9 +15,6 @@ The Smart Energy Controller enables real-time monitoring of electrical consumpti
 ## Project Structure
 
 Smart-Energy-Controller/
-
 ├── Docs/
-
 ├── Firmware/
-
 └── Hardware/
