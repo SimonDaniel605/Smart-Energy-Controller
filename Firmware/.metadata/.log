@@ -1,0 +1,78 @@
+!SESSION 2025-10-27 14:51:53.845 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_ZA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\Simon\Projects\Smart Energy Controller\Firmware
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-10-27 14:52:01.772
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-10-27 14:52:01.776
+!MESSAGE Log4j2 initialized with config file C:\Users\Simon\Projects\Smart Energy Controller\Firmware\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-10-27 14:52:05.299
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-27 14:54:13.887
+!MESSAGE Indexed 'SmartEnergyController' (19 sources, 83 headers) in 4.58 sec: 4,475 declarations; 19,142 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0085%)
+!SESSION 2025-10-27 18:34:30.983 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_ZA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-10-27 18:34:38.927
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-10-27 18:34:38.930
+!MESSAGE Log4j2 initialized with config file C:\Users\Simon\Projects\Smart Energy Controller\Firmware\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-10-27 18:34:50.984
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-10-28 07:50:29.026 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_ZA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-10-28 07:50:37.103
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-10-28 07:50:37.107
+!MESSAGE Log4j2 initialized with config file C:\Users\Simon\Projects\Smart Energy Controller\Firmware\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-10-28 07:50:43.673
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-11-03 22:23:55.552 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_ZA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-11-03 22:24:03.667
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-11-03 22:24:03.671
+!MESSAGE Log4j2 initialized with config file C:\Users\Simon\Projects\Smart Energy Controller\Firmware\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-11-03 22:24:10.476
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2026-04-21 13:05:51.693 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_ZA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\Simon\Projects\Smart Energy Controller\Firmware
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-04-21 13:06:05.100
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-04-21 13:06:05.107
+!MESSAGE Log4j2 initialized with config file C:\Users\Simon\Projects\Smart Energy Controller\Firmware\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-04-21 13:06:25.139
+!MESSAGE Started RMI Server, listening on port 41337
